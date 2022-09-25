@@ -281,7 +281,7 @@ h2 {
   position: relative;
   margin-bottom: 0;
 }
-@media (max-width: 47.9375em) {
+@media only screen and (max-width: 767px) {
   .banner {
     display: flex;
     flex-wrap: wrap;
